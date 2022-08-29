@@ -1,0 +1,41 @@
+.nima{
+  text-decoration: none;
+  color: #fff;
+  margin-right: 43px;
+  font-family: 'HelveticaNeueCyr';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 144.4%;
+  cursor: pointer;
+  &:hover{
+    padding-bottom: 40px;
+    border-bottom: 3px solid #FFFFFF;
+    color: #fff;
+  }
+}
+.active{
+  padding-bottom: 40px;
+  border-bottom: 3px solid #FFFFFF;
+  color: #fff;
+}
+.hero{
+  padding-top: 54px;
+  background: #191919;
+}
+.hero__img{
+  width: 1262px ;
+  height: 347px;
+  border-radius: 21px;
+  background-size: contain;
+}
+.conta{
+  width: 1280px;
+  margin: 0 auto;
+}
+.btnn{
+  border: none;
+  background-color: transparent;
+  color: #fff;
+  font-size: 20px;
+}

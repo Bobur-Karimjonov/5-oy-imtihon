@@ -1,0 +1,37 @@
+.labe {
+  cursor: pointer;
+  width: 328px;
+  font-family: 'Red Hat Display';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 36px;
+  color: #ffffff;
+  padding: 5px;
+  background: #152540;
+  border-radius: 99px;
+  text-align: center;
+}
+.inp {
+  display: none;
+}
+.tit {
+  font-family: 'Arial Black';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 34px;
+  /* identical to box height */
+
+  color: #000000;
+}
+.title {
+  font-family: 'Arial Black';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 51px;
+  /* identical to box height */
+
+  color: #000000;
+}
